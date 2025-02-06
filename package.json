@@ -57,7 +57,7 @@
     "prop-types": "^15.8.1"
   },
   "peerDependencies": {
-    "react": "^16 || ^17 || ^18"
+    "react": "^16 || ^17 || ^18 || ^19"
   },
   "devDependencies": {
     "@commitlint/cli": "^17.0.3",
